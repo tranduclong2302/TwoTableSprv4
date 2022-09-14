@@ -32,5 +32,6 @@ public class SanPham_HoaDon implements Serializable {
 
     @Column(name = "so_luong", nullable = false)
     private int soLuong;
+    //comment
 
 }
